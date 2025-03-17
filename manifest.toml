@@ -50,7 +50,7 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.ports]
-    main.default = 9090
+    main.default = 9099
     main.fixed = true
 
     [resources.apt]
